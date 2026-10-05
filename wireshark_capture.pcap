@@ -1,0 +1,7 @@
+PLACEHOLDER — Replace this file with an actual Wireshark export (.pcap or .pcapng) from your local lab capture.
+
+Recommended export steps in Wireshark:
+1. Stop the live capture after ≥ 2 minutes.
+2. File → Export Specified Packets (or Save As).
+3. Choose a descriptive name: wireshark_capture.pcap
+4. Commit only captures that contain no real personal or production data.
